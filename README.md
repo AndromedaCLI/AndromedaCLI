@@ -1,7 +1,4 @@
-# Uh hii! I'm 89Q12 :3
-That 3D printed queer bio/neuro-hacker puppygirl, that is left filled with microplastics.
-Got that hound in me *bark bark*
-
+# Uh hii! I'm AndromedaCLI :3
 You're one of:
 <p align="center"> <img src="https://count.ayaya.beauty/get/@:89q12?theme=asoul" alt="89Q12" /> </p>
 Profile visitors!
@@ -54,7 +51,7 @@ I mainly work from within the Terminal utilizing Neovim or K9S for most tasks, m
 
 ## How to reach me
 
-Either you know and already have contact info or via E-mail 89q12[at]puppy[.]rip for questions or discussions related to kubernetes or IaC etc :3
+Either you know and already have contact info or via E-mail AndromedaCLI[at]puppy[.]rip for questions or discussions related to kubernetes or IaC etc :3
 
 <!--
 **89Q12/89Q12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
