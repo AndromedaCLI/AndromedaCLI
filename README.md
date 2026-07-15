@@ -17,7 +17,7 @@ I love to do various things, be it analoge non digital or digital hobbies, at wo
 ### Currently in my private time I'm
 
 - working on [k8s-engine](ttps://github.com/89Q12/k8s-engine)
-- currently learning **Various things some more k8s, GoLang, mixing chemicials and other bio stuff**
+- currently learning **various things some more k8s, GoLang, mixing chemicials and cybersecruity topcis**
 - playing around with home automation using Home assistant
 - getting into photography and photo editing
 
